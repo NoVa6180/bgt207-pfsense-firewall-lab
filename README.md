@@ -1,5 +1,4 @@
-# bgt207-pfsense-firewall-lab
-pfSense 3-interface network architecture (WAN, LAN, DMZ) configuration, HTTP packet filtering, DMZ segmentation, and firewall log analysis.
+
 # BGT207 Ağ Güvenliği Laboratuvar Ödevi: pfSense ile DMZ ve Ağ Segmentasyonu
 
 Bu ödevde VirtualBox üzerinde pfSense güvenlik duvarı kurarak üç farklı ağ bacağı (WAN, LAN ve DMZ) oluşturdum. Amacım, iç ağdaki (LAN) bir makine ile dışarıya açık servislerin bulunduğu güvenli bölge (DMZ) arasındaki paket trafiğini kontrol etmek ve güvenlik kuralları yazarak erişimi kısıtlamaktı.
